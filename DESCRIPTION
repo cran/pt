@@ -1,0 +1,27 @@
+Package: pt
+Type: Package
+Title: Computational models for prospect theory and other theories of
+        risky decision making
+Version: 1.0
+Author: Gary Au
+Date: 2014-03-01
+Maintainer: Gary Au <gary.au@unimelb.edu.au>
+Description: Implements (cumulative) prospect theory and other
+    theories of risky decision making. A practically unlimited number of
+    choices can be specified. The package allows for different probability
+    weighting functions and utility functions to be specified, as well as their
+    parameters. Other features include the ability to plot individual
+    probability weighting curves and families of these curves, as well as
+    individual utility function curves. Single-stage decision trees can be
+    drawn. The probability simplex can also be drawn. Certainty equivalents and
+    risk premiums can be plotted. Theoretical predictions for different risky
+    decision making theories can be compared against each other and empirical
+    data.
+License: GPL-3
+VignetteBuilder: knitr
+Suggests: methods, grid, knitr, roxygen2
+BugReports: https://github.com/gary-au/pt/issues
+Packaged: 2014-03-10 08:10:29 UTC; Sally-Ann
+NeedsCompilation: no
+Repository: CRAN
+Date/Publication: 2014-03-10 17:23:31

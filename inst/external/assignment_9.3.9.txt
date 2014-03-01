@@ -1,0 +1,4 @@
+choice_id	gamble_id	outcome_id	probability	objective_consequence
+1	1	1	0.33	60
+1	1	2	0.33	30
+1	1	3	0.34	-30

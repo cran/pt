@@ -1,0 +1,10 @@
+citHeader("To cite the 'pt' package in publications use:")
+
+citEntry(
+  entry = 'manual',
+  title = 'pt: An R package for Prospect Theory',
+  author = 'Gary Au',
+  year = '2014',
+  note = 'R package version 1.0',
+  textVersion = 'Gary Au (2014). pt: An R package for Prospect Theory. R package version 1.0'
+)
